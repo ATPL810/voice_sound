@@ -1,0 +1,15 @@
+# Core audio processing
+pyaudio
+wave
+numpy
+
+# Noise reduction and audio processing
+noisereduce
+scipy
+librosa
+
+# Text-to-speech
+pyttsx3
+
+# Optional: for better audio handling
+pydub
